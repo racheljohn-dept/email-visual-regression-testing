@@ -5,7 +5,7 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 email-html-extractor/credentials.json
-
+.env
 
 # email-visual-tester-ui
 email-visual-tester-ui/data/
