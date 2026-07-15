@@ -68,7 +68,7 @@ npm start
 
 Open **http://localhost:4500**.
 
-### How to Run the Tests
+## How to Run the Tests
 
 ## Baseline Creation (First Run)
 
