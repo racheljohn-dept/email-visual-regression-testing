@@ -1,4 +1,4 @@
-# Email Visual Regression Tester
+# Email Visual Regression Testing
 
 An email visual regression testing project created to conduct visual checks for email builds, capturing how it renders across real email clients, and comparing each render against a saved baseline to catch layout regressions. A browser UI sits on top of the underlying Playwright test suite so the team can run tests, review diffs, and generate reports without touching the command line.
 
